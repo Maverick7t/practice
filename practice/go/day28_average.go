@@ -1,4 +1,5 @@
-﻿package main
+﻿// contribution 1
+package main
 
 import "fmt"
 
@@ -10,4 +11,5 @@ func main() {
     }
     fmt.Println(sum / float64(len(nums)))
 }
+
 
