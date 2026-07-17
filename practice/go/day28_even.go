@@ -1,4 +1,5 @@
-﻿package main
+﻿// contribution 2
+package main
 
 import "fmt"
 
@@ -9,4 +10,5 @@ func main() {
         }
     }
 }
+
 
