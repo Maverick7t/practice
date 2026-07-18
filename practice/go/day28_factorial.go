@@ -1,4 +1,5 @@
-﻿package main
+﻿// contribution 3
+package main
 
 import "fmt"
 
@@ -12,4 +13,5 @@ func factorial(n int) int {
 func main() {
     fmt.Println(factorial(5))
 }
+
 
