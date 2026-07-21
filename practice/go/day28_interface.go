@@ -1,4 +1,5 @@
-﻿package main
+﻿// contribution 6
+package main
 
 import "fmt"
 
@@ -14,4 +15,5 @@ func main() {
     var s Speaker = Cat{}
     fmt.Println(s.Speak())
 }
+
 
