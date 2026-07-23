@@ -1,4 +1,5 @@
-﻿package main
+﻿// contribution 8
+package main
 
 import "fmt"
 
@@ -17,4 +18,5 @@ func isPrime(n int) bool {
 func main() {
     fmt.Println(isPrime(11))
 }
+
 
