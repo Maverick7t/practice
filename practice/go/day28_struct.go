@@ -1,4 +1,5 @@
-﻿package main
+﻿// contribution 11
+package main
 
 import "fmt"
 
@@ -11,4 +12,5 @@ func main() {
     u := User{Name: "Ada", Age: 36}
     fmt.Println(u.Name, u.Age)
 }
+
 
