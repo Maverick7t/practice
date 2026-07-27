@@ -1,4 +1,5 @@
-﻿package main
+﻿// contribution 12
+package main
 
 import "fmt"
 
@@ -10,4 +11,5 @@ func main() {
     }
     fmt.Println(sum)
 }
+
 
